@@ -1,6 +1,6 @@
 ### Project-10-Using-HTML-and-CSS
 
-### Project 10
+### Project 10 [Project link](https://abhi979.github.io/Project-10-Using-HTML-and-CSS/)
 
  ### Skills Gained in this project
 - Learned to use background-image with lienar-gradient.
