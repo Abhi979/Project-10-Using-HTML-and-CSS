@@ -10,4 +10,5 @@
 
 ### Screenshot
 
-![image](https://user-images.githubusercontent.com/65283278/185747866-266a2fbf-1bed-44ce-b2c1-c126012184e9.png)
+![image](https://user-images.githubusercontent.com/65283278/185747905-6705fefe-1658-4984-a70e-c0541308d392.png)
+
